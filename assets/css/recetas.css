@@ -2,7 +2,7 @@
     background: #dab997;
     display: flex;
     flex-wrap: wrap;
-    
+    justify-content: center;
 
 }
 
